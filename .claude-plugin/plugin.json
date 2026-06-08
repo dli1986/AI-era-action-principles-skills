@@ -1,0 +1,11 @@
+{
+  "name": "ai-era-action-principles-skills",
+  "description": "A skill that helps AI assistants turn vague goals into expert resources, meaningful gateway actions, evidence, and persistent learning",
+  "version": "1.0.0",
+  "author": {
+    "name": "dli1986"
+  },
+  "license": "MIT",
+  "keywords": ["resources", "action", "evidence", "learning", "expert", "gateway"],
+  "skills": ["./skills/ai-era-action-principles"]
+}

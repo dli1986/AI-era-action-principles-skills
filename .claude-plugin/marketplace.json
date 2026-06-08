@@ -1,0 +1,31 @@
+{
+  "name": "ai-era-action-principles",
+  "id": "ai-era-action-principles",
+  "owner": {
+    "name": "dli1986"
+  },
+  "metadata": {
+    "description": "A skill that helps AI assistants turn vague goals into expert resources, meaningful gateway actions, evidence, and persistent learning",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "ai-era-action-principles-skills",
+      "source": "./",
+      "description": "Turns vague goals into expert resource maps, gateway minimal actions, observable evidence, and persistent notes — so tasks get done and users become more capable over time",
+      "version": "1.0.0",
+      "author": {
+        "name": "dli1986"
+      },
+      "keywords": [
+        "resources",
+        "action",
+        "evidence",
+        "learning",
+        "expert",
+        "gateway"
+      ],
+      "category": "workflow"
+    }
+  ]
+}
